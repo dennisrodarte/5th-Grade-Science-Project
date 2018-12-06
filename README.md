@@ -43,14 +43,8 @@ heat generated
 ## independent variabes
 
 ## Graph 
-background-color: white;
-    color: black;
-    font-weight: normal;
-    font-size: 13px;
-    font-family: arial,sans-serif;
-    font-family: var(--docs-material-font-family,arial,sans-serif);
-    margin: 0;}
-https://lh6.googleusercontent.com/jNKg7FIjqK2AWZUe2mENDxXs-zpZse12VGQa__WSz3egd64RZcQXdLEkMt84BZqlCij6PWPcRiyqpu0_yja9UWuuIYm3Lo-bkFbyhzlqee4jX_dxUndkjnhFMffMj7pjMv0rQH90jdM
+
+<iframe width="729" height="410" src="https://lh6.googleusercontent.com/U96yACUz2fAmZar9NgAgsOZtPR3qzCEFQOtUFsaYGgyUUImIEqAYZ3HoEneZXbTWg1TbE7FNVdjPLzJmp01wNUj-YLgtZtrIaamapmj9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 6% HP 
@@ -64,34 +58,3 @@ https://lh6.googleusercontent.com/jNKg7FIjqK2AWZUe2mENDxXs-zpZse12VGQa__WSz3egd6
 
 ## conclusion
 Although the distance the bubbles traveled doesn’t seem like much, the reaction was very intense.  The reaction speed was very different for the 3 concentrations, as well as the amount of foam generated. The 13.5% and 27% didn’t even give me a chance to mix it, and the 27% immediately poured out. 
-
-
-
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dennisrodarte/5th-Grade-Science-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
