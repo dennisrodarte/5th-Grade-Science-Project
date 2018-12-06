@@ -36,6 +36,22 @@ Caution: Wear chemical resistant gloves and goggles when handling hydrogen perox
 8.  Step back and observe the reaction. Measure and record the height of the foam as it pours out of the flask. 
 9. Repeat steps 3 -8 with 12% and 30% Hydrogen Peroxide.
 
+## dependent variables 
+the spread of the bubbles
+volume of foam
+heat generated 
+## independent variabes
+
+##Graph 
+
+https://lh6.googleusercontent.com/jNKg7FIjqK2AWZUe2mENDxXs-zpZse12VGQa__WSz3egd64RZcQXdLEkMt84BZqlCij6PWPcRiyqpu0_yja9UWuuIYm3Lo-bkFbyhzlqee4jX_dxUndkjnhFMffMj7pjMv0rQH90jdM
+
+
+##6% HP 
+<iframe width="729" height="410" src="https://www.youtube.com/embed/BNUoNQF2mvc?list=UUxJqs3nBx8VSgPuzHaCOgDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## conclusion
+Although the distance the bubbles traveled doesn’t seem like much, the reaction was very intense.  The reaction speed was very different for the 3 concentrations, as well as the amount of foam generated. The 13.5% and 27% didn’t even give me a chance to mix it, and the 27% immediately poured out. 
 
 
 
