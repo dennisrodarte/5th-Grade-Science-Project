@@ -42,13 +42,25 @@ volume of foam
 heat generated 
 ## independent variabes
 
-##Graph 
-
+## Graph 
+background-color: white;
+    color: black;
+    font-weight: normal;
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    font-family: var(--docs-material-font-family,arial,sans-serif);
+    margin: 0;}
 https://lh6.googleusercontent.com/jNKg7FIjqK2AWZUe2mENDxXs-zpZse12VGQa__WSz3egd64RZcQXdLEkMt84BZqlCij6PWPcRiyqpu0_yja9UWuuIYm3Lo-bkFbyhzlqee4jX_dxUndkjnhFMffMj7pjMv0rQH90jdM
 
 
-##6% HP 
+## 6% HP 
 <iframe width="729" height="410" src="https://www.youtube.com/embed/BNUoNQF2mvc?list=UUxJqs3nBx8VSgPuzHaCOgDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 13% HP 
+<iframe width="729" height="410" src="https://www.youtube.com/embed/hwTtvWrhK-w?list=UUxJqs3nBx8VSgPuzHaCOgDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 27% HP
+<iframe width="729" height="410" src="https://www.youtube.com/embed/PkkbrOjHo60?list=UUxJqs3nBx8VSgPuzHaCOgDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## conclusion
 Although the distance the bubbles traveled doesn’t seem like much, the reaction was very intense.  The reaction speed was very different for the 3 concentrations, as well as the amount of foam generated. The 13.5% and 27% didn’t even give me a chance to mix it, and the 27% immediately poured out. 
